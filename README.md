@@ -14,7 +14,7 @@ code for a huge variety of boards.
 |ESP32 |SUCCESS|
 |ESP8266_d1_mini|SUCCESS|
 |nucleo_f446re|SUCCESS|
-|teensys41|SUCCESS|
+|teensy41|SUCCESS|
 |bbcmicrobit_v2|SUCCESS|
 
 I tested this with an ESP32 board but it should work on all of the above.
