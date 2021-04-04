@@ -1,5 +1,5 @@
 # Example for ASTC compression with BT81x graphics controllers. 
-This is small example based on my EVE code library that displays the same image compressed with 12 different ASTC profiles.
+This is a small example based on my EVE code library that displays the same image compressed with 12 different ASTC profiles.
 
 For conveniance this is supplied as PlatformIO Arduino project since that allows to compile the same
 code for a huge variety of boards.
